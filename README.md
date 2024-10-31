@@ -9,10 +9,12 @@ _Blockchain developer based in Dubai 🇦🇪_ <br>
 **Solidity/JavaScript Developer** @ [Panther Protocol](http://pantherprotocol.io/) - Full-time _(Jan 2022 - Present)_ <br>
 A zero-knowledge platform that safeguards your on-chain data while facilitating compliant access to DeFi.
 
-- Designing, developing, and auditing smart contracts.
+- Developing and auditing smart contracts.
+- Designing highly scalable and upgradeable smart contracts using the Diamond proxy pattern.
 - Writing highly configurable deployment [scripts](https://github.com/pantherprotocol/panther-core/tree/main/contracts/deploy) using [Hardhat-Deploy](https://github.com/wighawag/hardhat-deploy) as well as Hardhat [tasks](https://github.com/pantherprotocol/panther-core/tree/main/contracts/tasks) for configuration of contracts for testing purposes.
 - Preparing [DAO proposal transaction](https://snapshot.org/#/pantherprotocol.eth) data for execution on the Mainnet and subsequent bridging to Polygon to configure the production contracts.
-- Reviewing MRs of team members and mentoring one junior solidity developer.
+- Reviewing MRs of team members and mentoring solidity developers.
+- Working closely with the Dapp team to fulfill requests (e.g., adding extra events or getter methods) and preparing contracts for testing.
 - Writting internal and [external](https://github.com/pantherprotocol/panther-core/blob/main/contracts/docs/Production-Deployment-README.md) technical documents as well as preparing flow diagrams
 
 - **_Technologies used:_** Solidity, TypeScript, EthersJs, Web3Js, Hardhat
@@ -21,7 +23,7 @@ A zero-knowledge platform that safeguards your on-chain data while facilitating 
 **Solidity Developer** @ [Brokoli Network](https://www.brokoli.network) - Part-time _(Jan 2022 - Sep 2022)_ <br>
 Brokoli is a DEX that allows users to act on climate change.
 
-- Developing smart contracts.
+- Developing smart contracts, including logic for staking, swapping, NFT minting, and lottery algorithms.
 - Writing deployment scripts.
 - Writing off-chain scripts to get on-chain data for airdrop and similar rewards program. Implementing endpoints for retrieving on-chain data using NestJS.
 - Preparing document for auditors and working closely with them to fix the contract issues.
