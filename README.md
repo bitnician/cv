@@ -20,7 +20,7 @@ A zero-knowledge platform that safeguards your on-chain data while facilitating 
 
 - Developing and auditing smart contracts.
 - Designing highly scalable and upgradeable [smart contracts](https://github.com/pantherfoundation/panther-core/tree/main/contracts/contracts/protocol/v1) using the Diamond proxy pattern.
-- Writing highly configurable deployment [scripts]([https://github.com/pantherprotocol/panther-core/tree/main/contracts/deploy](https://github.com/pantherfoundation/panther-core/tree/main/contracts/deploy/01-protocol) using [Hardhat-Deploy](https://github.com/wighawag/hardhat-deploy) as well as Hardhat [tasks](https://github.com/pantherfoundation/panther-core/tree/main/contracts/tasks) for configuration of contracts for testing purposes.
+- Writing highly configurable deployment [scripts](https://github.com/pantherfoundation/panther-core/tree/main/contracts/deploy/01-protocol) using [Hardhat-Deploy](https://github.com/wighawag/hardhat-deploy) as well as Hardhat [tasks](https://github.com/pantherfoundation/panther-core/tree/main/contracts/tasks) for configuration of contracts for testing purposes.
 - Preparing [DAO proposal transaction](https://snapshot.org/#/pantherprotocol.eth) data for execution on the Mainnet and subsequent bridging to Polygon to configure the production contracts.
 - Reviewing MRs of team members and mentoring solidity developers.
 - Working closely with the Dapp team to fulfill requests (e.g., adding extra events or getter methods) and preparing contracts for testing.
