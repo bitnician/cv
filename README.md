@@ -6,7 +6,7 @@ _Blockchain developer based in Dubai 🇦🇪_ <br>
 
 ## 🧑‍💻 Selected Work History:
 
-**Solidity/Rust Developer** @ [Igra Labs]((https://igralabs.com/hero)) - Full-time _(April 2025 - Present)_ <br>
+**Solidity/Rust Developer** @ [Igra Labs](https://igralabs.com/hero) - Full-time _(April 2025 - Present)_ <br>
 A base Layer 2 with EVM compatibility built on top of Kaspa Layer 1. 
 
 - Developing and auditing smart contracts.
