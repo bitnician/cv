@@ -6,7 +6,16 @@ _Blockchain developer based in Dubai 🇦🇪_ <br>
 
 ## 🧑‍💻 Selected Work History:
 
-**Solidity/JavaScript Developer** @ [Panther Protocol](http://pantherprotocol.io/) - Full-time _(Jan 2022 - Present)_ <br>
+**Solidity/Rust Developer** @ [Igra Labs]((https://igralabs.com/hero)) - Full-time _(April 2025 - Present)_ <br>
+A base Layer 2 with EVM compatibility built on top of Kaspa Layer 1. 
+
+- Developing and auditing smart contracts.
+- Contributing to the core backend of the project.
+
+- **_Technologies used:_** Solidity, TypeScript, Foundry, Rust
+  <br><br>
+
+**Solidity/JavaScript Developer** @ [Panther Protocol](http://pantherprotocol.io/) - Full-time _(Jan 2022 - March 2025)_ <br>
 A zero-knowledge platform that safeguards your on-chain data while facilitating compliant access to DeFi.
 
 - Developing and auditing smart contracts.
