@@ -76,7 +76,7 @@ Areatak develops platforms and products based on public/enterprise Blockchain.
 <a href="https://www.encode.club" target="_blank" rel="noopener noreferrer">Encode Club</a> - <a href="https://opensea.io/assets/matic/0xdBf2138593aeC61d55d86E80b8ed86D7b9ba51F5/4144" target="_blank" rel="noopener noreferrer">Credential</a> <br>
 
 **10-week of coding course** focused on Smart Contract Development<br>
-<a href="https://0xmacro.com" target="_blank" rel="noopener noreferrer">0xMacro Academy</a> - <a href="https://etherscan.io/address/0xcC84cAAa141039c7fE4A6e259bB7C5DC1B6204f7" target="_blank" rel="noopener noreferrer">Credential</a> <br>
+<a href="https://0xmacro.com" target="_blank" rel="noopener noreferrer">0xMacro Academy</a> - <a href="https://opensea.io/item/ethereum/0xcc84caaa141039c7fe4a6e259bb7c5dc1b6204f7/6490279480838962544759248249680781436765292221343728640" target="_blank" rel="noopener noreferrer">Credential</a> <br>
 
 **Hyperledger Fabric 2.x Network Design & Setup course** focused on running private blockchain network<br>
 <a href="https://www.udemy.com" target="_blank" rel="noopener noreferrer">Udemy</a> - <a href="https://www.udemy.com/certificate/UC-ad9242d6-5750-4f34-b730-8152f467d170/" target="_blank" rel="noopener noreferrer">Credential</a> <br>
