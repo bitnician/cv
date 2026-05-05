@@ -1,14 +1,12 @@
-<base target="_blank">
-
 # Behzad Pournouri
 
 _Blockchain developer based in Dubai 🇦🇪_ <br>
 
-[Email](mailto:bezi.eth@gmail.com) / [LinkedIn](https://www.linkedin.com/in/bitnician/) / [GitHub](https://github.com/bitnician/) / [Twitter](https://twitter.com/bitnician/) / [Medium](https://medium.com/@bitnician)
+<a href="mailto:bezi.eth@gmail.com" target="_blank" rel="noopener noreferrer">Email</a> / <a href="https://www.linkedin.com/in/bitnician/" target="_blank" rel="noopener noreferrer">LinkedIn</a> / <a href="https://github.com/bitnician/" target="_blank" rel="noopener noreferrer">GitHub</a> / <a href="https://twitter.com/bitnician/" target="_blank" rel="noopener noreferrer">Twitter</a> / <a href="https://medium.com/@bitnician" target="_blank" rel="noopener noreferrer">Medium</a>
 
 ## 🧑‍💻 Selected Work History:
 
-**Solidity/Rust Developer** @ [Igra Labs](https://igralabs.com/hero) - Full-time _(April 2025 - Present)_ <br>
+**Solidity/Rust Developer** @ <a href="https://igralabs.com/hero" target="_blank" rel="noopener noreferrer">Igra Labs</a> - Full-time _(April 2025 - Present)_ <br>
 A base Layer 2 with EVM compatibility built on top of Kaspa Layer 1. 
 
 - Developing and auditing smart contracts.
@@ -17,21 +15,21 @@ A base Layer 2 with EVM compatibility built on top of Kaspa Layer 1.
 - **_Technologies used:_** Solidity, TypeScript, Foundry, Rust
   <br><br>
 
-**Solidity/JavaScript Developer** @ [Panther Protocol](http://pantherprotocol.io/) - Full-time _(Jan 2022 - March 2025)_ <br>
+**Solidity/JavaScript Developer** @ <a href="http://pantherprotocol.io/" target="_blank" rel="noopener noreferrer">Panther Protocol</a> - Full-time _(Jan 2022 - March 2025)_ <br>
 A zero-knowledge platform that safeguards your on-chain data while facilitating compliant access to DeFi.
 
 - Developing and auditing smart contracts.
-- Designing highly scalable and upgradeable [smart contracts](https://github.com/pantherfoundation/panther-core/tree/main/contracts/contracts/protocol/v1) using the Diamond proxy pattern.
-- Writing highly configurable deployment [scripts](https://github.com/pantherfoundation/panther-core/tree/main/contracts/deploy/01-protocol) using [Hardhat-Deploy](https://github.com/wighawag/hardhat-deploy) as well as Hardhat [tasks](https://github.com/pantherfoundation/panther-core/tree/main/contracts/tasks) for configuration of contracts for testing purposes.
-- Preparing [DAO proposal transaction](https://snapshot.org/#/pantherprotocol.eth) data for execution on the Mainnet and subsequent bridging to Polygon to configure the production contracts.
+- Designing highly scalable and upgradeable <a href="https://github.com/pantherfoundation/panther-core/tree/main/contracts/contracts/protocol/v1" target="_blank" rel="noopener noreferrer">smart contracts</a> using the Diamond proxy pattern.
+- Writing highly configurable deployment <a href="https://github.com/pantherfoundation/panther-core/tree/main/contracts/deploy/01-protocol" target="_blank" rel="noopener noreferrer">scripts</a> using <a href="https://github.com/wighawag/hardhat-deploy" target="_blank" rel="noopener noreferrer">Hardhat-Deploy</a> as well as Hardhat <a href="https://github.com/pantherfoundation/panther-core/tree/main/contracts/tasks" target="_blank" rel="noopener noreferrer">tasks</a> for configuration of contracts for testing purposes.
+- Preparing <a href="https://snapshot.org/#/pantherprotocol.eth" target="_blank" rel="noopener noreferrer">DAO proposal transaction</a> data for execution on the Mainnet and subsequent bridging to Polygon to configure the production contracts.
 - Reviewing MRs of team members and mentoring solidity developers.
 - Working closely with the Dapp team to fulfill requests (e.g., adding extra events or getter methods) and preparing contracts for testing.
-- Writting internal and [external](https://github.com/pantherprotocol/panther-core/blob/main/contracts/docs/Production-Deployment-README.md) technical documents as well as preparing flow diagrams
+- Writting internal and <a href="https://github.com/pantherprotocol/panther-core/blob/main/contracts/docs/Production-Deployment-README.md" target="_blank" rel="noopener noreferrer">external</a> technical documents as well as preparing flow diagrams
 
 - **_Technologies used:_** Solidity, TypeScript, EthersJs, Web3Js, Hardhat
   <br><br>
 
-**Solidity Developer** @ [Brokoli Network](https://app.daomaker.com/project/brokoli) - Part-time _(Jan 2022 - Sep 2022)_ <br>
+**Solidity Developer** @ <a href="https://app.daomaker.com/project/brokoli" target="_blank" rel="noopener noreferrer">Brokoli Network</a> - Part-time _(Jan 2022 - Sep 2022)_ <br>
 Brokoli is a DEX that allows users to act on climate change.
 
 - Developing smart contracts, including logic for staking, swapping, NFT minting, and lottery algorithms.
@@ -42,7 +40,7 @@ Brokoli is a DEX that allows users to act on climate change.
 - **_Technologies used:_** Solidity, TypeScript, EthersJs, Web3Js, Hardhat
   <br><br>
 
-**Cairo Developer** @ [Akropolis](https://www.akropolis.io) - Freelance _(Nov 2021 - Jan 2022)_ <br>
+**Cairo Developer** @ <a href="https://www.akropolis.io" target="_blank" rel="noopener noreferrer">Akropolis</a> - Freelance _(Nov 2021 - Jan 2022)_ <br>
 Akropolis operates a DeFi protocol that seeks to provide an autonomous financial ecosystem for saving and growing wealth, including through borrowing and lending.
 
 - Developing and testing the smart contracts.
@@ -54,7 +52,7 @@ Akropolis operates a DeFi protocol that seeks to provide an autonomous financial
 - **_Technologies used:_** Cairo, JavaScript, Python
   <br><br>
 
-**Blockchain Developer** @ [Areatak](https://www.linkedin.com/company/areatak) - Full-time _(Mar 2020 - May 2021)_ <br>
+**Blockchain Developer** @ <a href="https://www.linkedin.com/company/areatak" target="_blank" rel="noopener noreferrer">Areatak</a> - Full-time _(Mar 2020 - May 2021)_ <br>
 Areatak develops platforms and products based on public/enterprise Blockchain.
 
 - Building a tokenization system for the Central Bank of Iran using Hyperledger Fabric.
@@ -75,10 +73,10 @@ Areatak develops platforms and products based on public/enterprise Blockchain.
 ## 👨‍🎓 Education
 
 **ZK Workshop** focused in providing high-level overviews of zero-knowledge protocols and developing ZK applications using Cairo and Snarkyjs (now renamed to o1js)<br>
-[Encode Club](https://www.encode.club) - [Credential](https://opensea.io/assets/matic/0xdBf2138593aeC61d55d86E80b8ed86D7b9ba51F5/4144) <br>
+<a href="https://www.encode.club" target="_blank" rel="noopener noreferrer">Encode Club</a> - <a href="https://opensea.io/assets/matic/0xdBf2138593aeC61d55d86E80b8ed86D7b9ba51F5/4144" target="_blank" rel="noopener noreferrer">Credential</a> <br>
 
 **10-week of coding course** focused on Smart Contract Development<br>
-[0xMacro Academy](https://0xmacro.com) - [Credential](https://etherscan.io/address/0xcC84cAAa141039c7fE4A6e259bB7C5DC1B6204f7) <br>
+<a href="https://0xmacro.com" target="_blank" rel="noopener noreferrer">0xMacro Academy</a> - <a href="https://etherscan.io/address/0xcC84cAAa141039c7fE4A6e259bB7C5DC1B6204f7" target="_blank" rel="noopener noreferrer">Credential</a> <br>
 
 **Hyperledger Fabric 2.x Network Design & Setup course** focused on running private blockchain network<br>
-[Udemy](https://www.udemy.com) - [Credential](https://www.udemy.com/certificate/UC-ad9242d6-5750-4f34-b730-8152f467d170/) <br>
+<a href="https://www.udemy.com" target="_blank" rel="noopener noreferrer">Udemy</a> - <a href="https://www.udemy.com/certificate/UC-ad9242d6-5750-4f34-b730-8152f467d170/" target="_blank" rel="noopener noreferrer">Credential</a> <br>
