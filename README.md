@@ -1,13 +1,13 @@
 # Behzad Pournouri
 
-_Blockchain developer based in Dubai 🇦🇪_ <br>
+_Smart contract dev. The kind of work where one missing check ruins your week — and somehow I keep coming back._ <br>
 
 <a href="mailto:bezi.eth@gmail.com" target="_blank" rel="noopener noreferrer">Email</a> / <a href="https://www.linkedin.com/in/bitnician/" target="_blank" rel="noopener noreferrer">LinkedIn</a> / <a href="https://github.com/bitnician/" target="_blank" rel="noopener noreferrer">GitHub</a> / <a href="https://twitter.com/bitnician/" target="_blank" rel="noopener noreferrer">Twitter</a> / <a href="https://medium.com/@bitnician" target="_blank" rel="noopener noreferrer">Medium</a>
 
 ## 🧑‍💻 Selected Work History:
 
 **Solidity/Rust Developer** @ <a href="https://igralabs.com/hero" target="_blank" rel="noopener noreferrer">Igra Labs</a> - Full-time _(April 2025 - Present)_ <br>
-A base Layer 2 with EVM compatibility built on top of Kaspa Layer 1. 
+A base Layer 2 with EVM compatibility built on top of Kaspa Layer 1.
 
 - Developing and auditing smart contracts.
 - Contributing to the core backend of the project.
