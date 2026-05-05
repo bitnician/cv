@@ -31,7 +31,7 @@ A zero-knowledge platform that safeguards your on-chain data while facilitating 
 - **_Technologies used:_** Solidity, TypeScript, EthersJs, Web3Js, Hardhat
   <br><br>
 
-**Solidity Developer** @ [Brokoli Network](https://www.brokoli.network) - Part-time _(Jan 2022 - Sep 2022)_ <br>
+**Solidity Developer** @ [Brokoli Network](https://app.daomaker.com/project/brokoli) - Part-time _(Jan 2022 - Sep 2022)_ <br>
 Brokoli is a DEX that allows users to act on climate change.
 
 - Developing smart contracts, including logic for staking, swapping, NFT minting, and lottery algorithms.
@@ -54,7 +54,7 @@ Akropolis operates a DeFi protocol that seeks to provide an autonomous financial
 - **_Technologies used:_** Cairo, JavaScript, Python
   <br><br>
 
-**Blockchain Developer** @ [Areatak](https://en.areatak.com) - Full-time _(Mar 2020 - May 2021)_ <br>
+**Blockchain Developer** @ [Areatak](https://www.linkedin.com/company/areatak) - Full-time _(Mar 2020 - May 2021)_ <br>
 Areatak develops platforms and products based on public/enterprise Blockchain.
 
 - Building a tokenization system for the Central Bank of Iran using Hyperledger Fabric.
