@@ -1,3 +1,5 @@
+<base target="_blank">
+
 # Behzad Pournouri
 
 _Blockchain developer based in Dubai 🇦🇪_ <br>
